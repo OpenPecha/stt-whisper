@@ -1,3 +1,6 @@
 .env
 wandb
 whisper-*
+.env_local
+*.tsv
+*.csv
